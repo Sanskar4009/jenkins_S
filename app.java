@@ -6,5 +6,7 @@ public class app{
         Scanner sc=new Scanner(System.in);
         System.out.println("Hii Hello settle down");
         System.out.println("Hii Hello settle down 1");
+        int c=4+5;
+        System.out.println(c);
     }
 }
