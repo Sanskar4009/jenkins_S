@@ -8,5 +8,7 @@ public class app{
         System.out.println("Hii Hello settle down 1");
         int c=4+5;
         System.out.println(c);
+        int d=8*9;
+        System.out.println(d);
     }
 }
